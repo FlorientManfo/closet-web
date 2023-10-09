@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.80c31eb4.css",
-    "main.js": "/static/js/main.5e2e6dbd.js",
-    "static/js/787.dddfb436.chunk.js": "/static/js/787.dddfb436.chunk.js",
-    "index.html": "/index.html",
-    "main.80c31eb4.css.map": "/static/css/main.80c31eb4.css.map",
-    "main.5e2e6dbd.js.map": "/static/js/main.5e2e6dbd.js.map",
-    "787.dddfb436.chunk.js.map": "/static/js/787.dddfb436.chunk.js.map"
+    "main.css": "/closet-web/static/css/main.80c31eb4.css",
+    "main.js": "/closet-web/static/js/main.728f8810.js",
+    "static/js/787.dddfb436.chunk.js": "/closet-web/static/js/787.dddfb436.chunk.js",
+    "index.html": "/closet-web/index.html",
+    "main.80c31eb4.css.map": "/closet-web/static/css/main.80c31eb4.css.map",
+    "main.728f8810.js.map": "/closet-web/static/js/main.728f8810.js.map",
+    "787.dddfb436.chunk.js.map": "/closet-web/static/js/787.dddfb436.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80c31eb4.css",
-    "static/js/main.5e2e6dbd.js"
+    "static/js/main.728f8810.js"
   ]
 }
